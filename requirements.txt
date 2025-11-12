@@ -1,8 +1,8 @@
 streamlit
 streamlit-webrtc
-torch
-torchvision
-deepface==0.0.93
+deepface==0.0.75
+torch==2.3.1
+torchvision==0.18.1
 opencv-python-headless==4.10.0.84
 numpy==1.26.4
 av
