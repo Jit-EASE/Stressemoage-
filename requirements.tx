@@ -1,8 +1,9 @@
 streamlit
 streamlit-webrtc
 tensorflow
-opencv-python
+tensorflow-hub
+opencv-python-headless
 numpy
-openai
 av
-cv2
+openai
+tflite-runtime
