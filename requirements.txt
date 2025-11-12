@@ -1,9 +1,11 @@
-streamlit
-streamlit-webrtc
-deepface==0.0.75
+streamlit==1.39.0
+streamlit-webrtc==0.47.1
 torch==2.3.1
 torchvision==0.18.1
 opencv-python-headless==4.10.0.84
+deepface==0.0.75
 numpy==1.26.4
-av
-openai
+av==12.3.0
+openai==1.46.0
+libgl1
+libglib2.0-0
