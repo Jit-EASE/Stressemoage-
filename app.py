@@ -9,7 +9,7 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 st.set_page_config(page_title="AI Perception Lite", layout="wide")
 
-st.title("👁️ AI Perception Lite – Human Attribute Recognition")
+st.title("AI Perception Lite – Human Attribute Recognition")
 
 # Load TFLite models
 interpreter_face = tf.lite.Interpreter(model_path="blazeface.tflite")
