@@ -1,8 +1,9 @@
 streamlit
 streamlit-webrtc
-tflite-runtime
-tensorflow-hub
+deepface==0.0.93
+torch
+torchvision
 opencv-python-headless
-numpy==1.26.4
+numpy
 av
 openai
