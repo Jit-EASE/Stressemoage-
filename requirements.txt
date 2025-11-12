@@ -1,6 +1,6 @@
 streamlit
 streamlit-webrtc
-deepface==0.0.93
+deepface
 torch
 torchvision
 opencv-python-headless
